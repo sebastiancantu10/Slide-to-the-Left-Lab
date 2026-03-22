@@ -1,3 +1,4 @@
-#include <string>
+#pragma once
 
-std::string slide();
+// function prototype
+void arrayShift(int arr[], int size, int shifts);
